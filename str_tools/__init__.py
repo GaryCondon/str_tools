@@ -4,4 +4,6 @@
 
 __author__ = """Gary Condon"""
 __email__ = 'gary@condon.net'
-__version__ = '0.1.4'
+__version__ = '0.1.5'
+
+from str_tools import Charges
